@@ -2,21 +2,21 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Recipe @ Z</title>
-    <link>https://zzrecipe.github.io/</link>
+    <link>https://zzrecipe.github.io/recipe/</link>
     <description>Recent content on Recipe @ Z</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>zh-cn</language>
     <lastBuildDate>Sat, 20 May 2017 23:26:15 -0400</lastBuildDate>
     
-	<atom:link href="https://zzrecipe.github.io/index.xml" rel="self" type="application/rss+xml" />
+	<atom:link href="https://zzrecipe.github.io/recipe/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
       <title>test</title>
-      <link>https://zzrecipe.github.io/post/test/</link>
+      <link>https://zzrecipe.github.io/recipe/post/test/</link>
       <pubDate>Sat, 20 May 2017 23:26:15 -0400</pubDate>
       
-      <guid>https://zzrecipe.github.io/post/test/</guid>
+      <guid>https://zzrecipe.github.io/recipe/post/test/</guid>
       <description>Test.</description>
     </item>
     
